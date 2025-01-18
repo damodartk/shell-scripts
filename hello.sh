@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "Hello Dosto"
+echo "Hello Damodar"
 
 echo "Welcome to DevOps - Zero To Hero"
 
